@@ -1,3 +1,8 @@
+EN
 This application does not collect or store personal data.
 
 If you installed this application from Google Play, then Google Play does collect some personal data. Please see the privacy policy for Google Play Services here: https://policies.google.com/privacy
+
+RU
+Это приложение не собирает и не хранит личные данные.
+Если вы установили это приложение из Google Play, то Google Play собирает некоторые личные данные. Пожалуйста, ознакомьтесь с политикой конфиденциальности для сервисов Google Play здесь: https://policies.google.com/privacy.
